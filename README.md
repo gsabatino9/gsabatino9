@@ -1,5 +1,5 @@
 # Proyectos
-## ![Richter's Predictor: Modeling Earthquake Damage](https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/)
+## [Richter's Predictor: Modeling Earthquake Damage](https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/)
 > Link al [repositorio](https://github.com/gsabatino9/OrganizacionDeDatos/tree/main/data).
 
 #### Contenidos

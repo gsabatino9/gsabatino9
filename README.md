@@ -18,3 +18,6 @@ ensambles de modelos y redes neuronales.
 - Análisis exploratorio de datos y preprocesamiento de datos.
 - Regresión lineal: Búsqueda de modelos. Entrenamiento, regularización (Lasso), selección de modelos. Validación de supuestos y detección de datos atípicos.
 - Árboles y métodos basados en árboles: Árboles crecidos, podados. Bagging, Random Forest, Boosting, XGBoost, BART.
+
+# Contacto
+- [Linkedin](https://www.linkedin.com/in/gonzalo-sabatino-3ba274271).
